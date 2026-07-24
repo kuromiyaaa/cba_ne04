@@ -455,10 +455,6 @@
     line-height: 1.9;
 }
 
-.cb-contact__feature-em {
-    color: #e6421e;
-}
-
 @media only screen and (min-width: 768px) {
     .cb-contact__feature-txt br.pc {
         display: block;
